@@ -19,22 +19,22 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 You can find the Github Repo here.
 
-## Links:
+## 链接
 
 + [Live Preview](http://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
 + [Material Kit - For Front End Development](http://www.creative-tim.com/product/material-kit?ref=github-md-free)
 + [Material Dashboard PRO](http://www.creative-tim.com/product/material-dashboard-pro?ref=github-md-free) (from $49)
 
-## Quick start
+## 快速开始
 
 Quick start options:
 
-- [Download from Github](https://github.com/creativetimofficial/material-dashboard/archive/master.zip).
+- [Download from Github](https://github.com/theboboy/material-dashboard/archive/master.zip).
 - [Download from Creative Tim](http://www.creative-tim.com/product/material-dashboard).
 - Clone the repo: `git clone https://github.com/creativetimofficial/material-dashboard.git`.
 
 
-### What's included
+### 项目结构
 
 Within the download you'll find the following directories and files:
 
@@ -63,7 +63,7 @@ material-dashboard/
 
 ```
 
-### Version logs
+### 版本说明
 
 V1.0.0 21 Sept, 2016 - Initial Release
 
@@ -74,12 +74,12 @@ V1.1.0 10 Nov, 2016 - New Page Added
 V1.1.1 8 Feb 2017
 - switched to MIT License
 
-### License
+### 许可
 
 - Copyright 2017 Creative Tim (http://www.creative-tim.com)
 - Licensed under MIT (https://github.com/creativetimofficial/material-dashboard/blob/master/LICENSE.md)
 
-## Useful Links
+## 常用链接
 
 More products from Creative Tim: <http://www.creative-tim.com/products>
 
@@ -88,15 +88,3 @@ Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 Freebies: <http://www.creative-tim.com/products>
 
 Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
-
-Social Media:
-
-Twitter: <https://twitter.com/CreativeTim>
-
-Facebook: <https://www.facebook.com/CreativeTim>
-
-Dribbble: <https://dribbble.com/creativetim>
-
-Google+: <https://plus.google.com/+CreativetimPage>
-
-Instagram: <https://instagram.com/creativetimofficial>
